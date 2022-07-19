@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-weather_telegram_bot-master",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
